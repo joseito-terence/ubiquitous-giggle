@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/home/kilowott/Documents/poc/test-app/packages/ui/src/CustomToast.tsx"],
+  "mappings": ";AAAA,OAAOA,aAAaC,4BAA4B;AAChD,SAASC,eAAeC,aAAa;AAErC,IAAMC,SAASJ,UAAUK,yBAAyBJ,qBAAqBK,aAE1DC,cAAc,WAAA;AACzB,SAAIH,SACK,OAEA,qBAACD,OAAAA,CAAAA,CAAAA;AAEZ;",
+  "names": ["Constants", "ExecutionEnvironment", "NativeToast", "Toast", "isExpo", "executionEnvironment", "StoreClient", "CustomToast"]
+}

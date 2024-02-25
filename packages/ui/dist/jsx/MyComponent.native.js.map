@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": ["../../src/home/kilowott/Documents/poc/test-app/packages/ui/src/MyComponent.tsx"],
+  "mappings": "AAAA,SAASA,QAAQC,cAAc;AAExB,IAAMC,cAAcD,OAAOD,QAAQ;EACxCG,MAAM;EACNC,iBAAiB;EAEjBC,UAAU;IACRC,MAAM;MACJC,MAAM;QACJH,iBAAiB;MACnB;IACF;EACF;AACF,CAAA;",
+  "names": ["YStack", "styled", "MyComponent", "name", "backgroundColor", "variants", "blue", "true"]
+}
